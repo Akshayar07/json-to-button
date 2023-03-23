@@ -1,0 +1,39 @@
+{
+  "days":[
+    {
+      "value": "-1",
+      "name": "Any Day",
+      "image":"https://mmfss-leaseuat.azureedge.net/vehicleimages/model/img/city/ic_mumbai.png"
+    },
+    {
+      "value": "2",
+      "name": "Monday",
+      "image":"https://mmfss-leaseuat.azureedge.net/vehicleimages/model/img/city/ic_mumbai.png"
+    },
+    {
+      "value": "3",
+      "name": "Tuesday",
+      "image":"https://mmfss-leaseuat.azureedge.net/vehicleimages/model/img/city/ic_mumbai.png"
+    },
+    {
+      "value": "4",
+      "name": "Wednesday",
+      "image":"https://mmfss-leaseuat.azureedge.net/vehicleimages/model/img/city/ic_mumbai.png"
+    },
+    {
+      "value": "5",
+      "name": "Thursday",
+      "image":"https://mmfss-leaseuat.azureedge.net/vehicleimages/model/img/city/ic_mumbai.png"
+    },
+    {
+      "value": "6",
+      "name": "Friday",
+      "image":"https://mmfss-leaseuat.azureedge.net/vehicleimages/model/img/city/ic_mumbai.png"
+    },
+    {
+      "value": "7",
+      "name": "Saturday",
+      "image":"https://mmfss-leaseuat.azureedge.net/vehicleimages/model/img/city/ic_mumbai.png"
+    }
+  ]
+}
